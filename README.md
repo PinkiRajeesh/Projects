@@ -12,7 +12,7 @@ Project Name: Employee Retention
 Dataset Name: HR_1 & HR_2
 
 Dataset Type: Excel Data
-
+https://github.com/PinkiRajeesh/Projects/blob/20b8da36a70037de6825f908869bad1e23b27295/HR.csv
 
 Dataset Size: 50k records each
 
