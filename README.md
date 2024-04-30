@@ -14,4 +14,4 @@ Dataset Name: HR_1 & HR_2
 Dataset Type: Excel Data
 
 Dataset Size: 50k records each
-![image](https://github.com/PinkiRajeesh/Projects/assets/168532067/8194217a-e9c8-4fd9-98d1-b462d88f0b93)
+
