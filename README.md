@@ -62,3 +62,7 @@ https://github.com/PinkiRajeesh/Projects/blob/3a6b9f3c787c5e09ebdf471e0c3157edf1
 EXCEL:
 
 ![Capture](https://github.com/PinkiRajeesh/Projects/assets/168532067/fd2b5d7d-77e6-4850-b888-f37eb3150546)
+
+POWER BI
+
+![Capture](https://github.com/PinkiRajeesh/Projects/assets/168532067/825598b6-d282-4c1b-901f-2aba2d4a1c94)
