@@ -34,11 +34,17 @@ Attrition rate Vs Year since last promotion relation
 #### Analysis
 
 Departments – 6
+
 Job Role’s offered - 10
+
 Total no. of Employees – 50,000
+
 Attrition Rate- 50.21%
+
 Male Employees – 25,059
+
 Female Employees – 24,941
+
 Active Employees – 24,895
 
 Tools - Advance Excel,PowerBi,SQL,Tableau "Welcome to my data analyst project, where I used a variety of tools to derive insights from employee data and create a comprehensive dashboard for employee retention analysis.
