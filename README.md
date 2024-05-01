@@ -73,3 +73,7 @@ TABLEAU
 
 SQL
 
+![Capture](https://github.com/PinkiRajeesh/Projects/assets/168532067/07eeeb39-7c4b-46c4-9aac-8a20b233d50d)
+![Capture1](https://github.com/PinkiRajeesh/Projects/assets/168532067/d2244eb8-d2b2-41e9-8f20-553ad3dd314e)
+![Capture2](https://github.com/PinkiRajeesh/Projects/assets/168532067/f47dc873-5d59-48e3-8ce6-294d58f6af98)
+![Capture4](https://github.com/PinkiRajeesh/Projects/assets/168532067/dc8a2812-323e-4acb-a67f-6c4c03eeefaa)
