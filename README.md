@@ -60,3 +60,4 @@ https://github.com/PinkiRajeesh/Projects/blob/3a6b9f3c787c5e09ebdf471e0c3157edf1
 ![Capture](https://github.com/PinkiRajeesh/Projects/assets/168532067/11158a4c-45ee-4bc0-be62-7b88e40d9f85)
 ##### DASHBOARD
 EXCEL:
+![Capture](https://github.com/PinkiRajeesh/Projects/assets/168532067/fd2b5d7d-77e6-4850-b888-f37eb3150546)
