@@ -52,5 +52,7 @@ Tools - Advance Excel,PowerBi,SQL,Tableau "Welcome to my data analyst project, w
 https://github.com/PinkiRajeesh/Projects/blob/3a6b9f3c787c5e09ebdf471e0c3157edf127925a/Hr%20Project%20Presentation.pptx
 
 https://github.com/PinkiRajeesh/Projects/blob/9328239f46c6ad9c73ee3ebff4b33f085d8c5201/Capture.PNG
+![Capture](https://github.com/PinkiRajeesh/Projects/assets/168532067/9475594f-2945-4e49-ae4a-6ef79315317b)
+
 ##### DASHBOARD
 EXCEL:
