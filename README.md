@@ -70,3 +70,6 @@ POWER BI
 TABLEAU
 
 ![Capture](https://github.com/PinkiRajeesh/Projects/assets/168532067/c6c26adf-0e93-49f1-a2d7-8d9c4856d332)
+
+SQL
+
