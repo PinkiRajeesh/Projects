@@ -50,7 +50,6 @@ Active Employees – 24,895
 Tools - Advance Excel,PowerBi,SQL,Tableau "Welcome to my data analyst project, where I used a variety of tools to derive insights from employee data and create a comprehensive dashboard for employee retention analysis.
 
 https://github.com/PinkiRajeesh/Projects/blob/3a6b9f3c787c5e09ebdf471e0c3157edf127925a/Hr%20Project%20Presentation.pptx
-Capture.PNG
 
 
 ##### DASHBOARD
