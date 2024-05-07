@@ -64,11 +64,15 @@ EXCEL:
 ![Capture](https://github.com/PinkiRajeesh/Projects/assets/168532067/fd2b5d7d-77e6-4850-b888-f37eb3150546)
 
 POWER BI
+
 https://app.powerbi.com/home?experience=power-bi
+
 ![Capture](https://github.com/PinkiRajeesh/Projects/assets/168532067/825598b6-d282-4c1b-901f-2aba2d4a1c94)
 
 TABLEAU
+
 https://public.tableau.com/app/profile/pinki.rajeesh/vizzes
+
 ![Capture](https://github.com/PinkiRajeesh/Projects/assets/168532067/c6c26adf-0e93-49f1-a2d7-8d9c4856d332)
 
 SQL
